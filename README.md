@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Carlos310197/Carlos310197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/CarlosHuapaya"><img src="https://api.daily.dev/devcards/d62c95837ef446a4a8428d4cc0bbc9b1.png?r=kpx" width="400" alt="Carlos Enrique Huapaya Avalos's Dev Card"/></a>
+<a href="https://app.daily.dev/CarlosHuapaya"><img src="https://api.daily.dev/devcards/d62c95837ef446a4a8428d4cc0bbc9b1.png?r=jnm" width="400" alt="Carlos Enrique Huapaya Avalos's Dev Card"/></a>
