@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/CarlosHuapaya"><img src="https://api.daily.dev/devcards/d62c95837ef446a4a8428d4cc0bbc9b1.png?r=jnm" width="400" alt="Carlos Enrique Huapaya Avalos's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Carlos310197/Carlos310197/blob/master/devcard.svg" width="400" alt="Carlos Huapaya's Dev Card"/></a>
