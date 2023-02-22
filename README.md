@@ -5,9 +5,10 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Data Science projects
-- 🌱 I’m currently learning Machine Learning and SQL
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/carlos-huapaya-avalos/) and [Twitter](https://twitter.com/carlosha31)
+- 🔭 Currently working on Data Science, ML and AI projects.
+- 💻 Enrrolled in the Micromaster in Statistics and Data Science from MITx. Right now taking the ML course of this specialization.
+- 🌱 Also, currently participating on this year's EY challenge, which is about identifying rice crops fields in Vietnam to attenuate world's hunger.
+- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/carlos-huapaya-avalos/) and [Twitter](https://twitter.com/carlosha31)
 
 Here's my card from Daily Dev:
 
